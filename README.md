@@ -5,5 +5,7 @@
 
 # 動かしかた
 スペース4つあける
-    %ruby test.rb
+→プログラムっぽくなる
+
+#hoge
     ruby test.rb
