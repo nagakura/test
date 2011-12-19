@@ -5,4 +5,5 @@
 
 # 動かしかた
 スペース4つあける
-    #ruby test.rb
+    %ruby test.rb
+    ruby test.rb
