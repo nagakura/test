@@ -1,1 +1,2 @@
-print "hello"
+print "hello\n"
+puts "変更したよ!"
